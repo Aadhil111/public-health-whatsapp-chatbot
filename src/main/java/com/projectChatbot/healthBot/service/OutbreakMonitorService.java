@@ -23,7 +23,6 @@ public class OutbreakMonitorService {
 
     @Scheduled(fixedDelay = 6 * 60 * 60 * 1000) // every 6 hours
     public void checkForNewPdfs() {
-//        checkIDSP();
         checkNCDC();
     }
 
