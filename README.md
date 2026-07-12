@@ -30,6 +30,6 @@ cd asis
 - Support more regional languages and dialects
 
 ## 🖼️ Images
-<img width="250" height="580" alt="WhatsApp Image 2026-07-12 at 1 00 46 PM (2)" src="https://github.com/user-attachments/assets/2d5d0c64-0372-45ac-9762-9cf09f6c3d46" /> <img width="250" height="580" alt="WhatsApp Image 2026-07-12 at 1 00 46 PM (3)" src="https://github.com/user-attachments/assets/18d8d070-df1f-4ab6-9ea5-323e18c368d5" /> <img width="250" height="580" alt="WhatsApp Image 2026-07-12 at 1 00 46 PM" src="https://github.com/user-attachments/assets/302b9d5b-754e-4901-a99a-a3013754a8a8" />
+<img width="250" height="550" alt="WhatsApp Image 2026-07-12 at 1 00 46 PM (2)" src="https://github.com/user-attachments/assets/2d5d0c64-0372-45ac-9762-9cf09f6c3d46" /> <img width="250" height="550" alt="WhatsApp Image 2026-07-12 at 1 00 46 PM (3)" src="https://github.com/user-attachments/assets/18d8d070-df1f-4ab6-9ea5-323e18c368d5" /> <img width="250" height="550" alt="WhatsApp Image 2026-07-12 at 1 00 46 PM" src="https://github.com/user-attachments/assets/302b9d5b-754e-4901-a99a-a3013754a8a8" />
 
 
