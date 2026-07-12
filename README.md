@@ -1,4 +1,4 @@
-# 🏥 ASIS
+<img width="149" height="148" alt="image" src="https://github.com/user-attachments/assets/3ceb122d-ab3b-440f-a8f5-7376760522a4" /><img width="149" height="148" alt="image" src="https://github.com/user-attachments/assets/b1ae9d1c-1f04-467b-828a-7cb201116f1c" /># 🏥 ASIS
 
 A Hybrid LLM and Knowledge-Base Multilingual Public Health WhatsApp Chatbot with Real-Time Disease Outbreak Monitoring. Built to make public health information accessible directly over WhatsApp, in the languages people actually speak.
 
@@ -28,3 +28,6 @@ cd asis
 - Expand outbreak data sources beyond IDSP/NCDC
 - Add voice-note query support
 - Support more regional languages and dialects
+
+## 🖼️ Images
+<img width="716" height="1600" alt="WhatsApp Image 2026-07-12 at 1 00 46 PM (2)" src="https://github.com/user-attachments/assets/2d5d0c64-0372-45ac-9762-9cf09f6c3d46" />
