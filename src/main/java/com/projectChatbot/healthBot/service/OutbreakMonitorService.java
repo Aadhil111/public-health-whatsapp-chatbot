@@ -26,12 +26,6 @@ public class OutbreakMonitorService {
         checkNCDC();
     }
 
-    private void checkIDSP() {
-
-        String url = "https://idsp.mohfw.gov.in/index4.php?lang=1&level=0&linkid=406&lid=3689";
-        fetchWithRetry(url, "IDSP");
-    }
-
     private void checkNCDC() {
 
         String url = "https://ncdc.mohfw.gov.in/cd-alert/";
