@@ -3,7 +3,7 @@
 A Hybrid LLM and Knowledge-Base Multilingual Public Health WhatsApp Chatbot with Real-Time Disease Outbreak Monitoring. Built to make public health information accessible directly over WhatsApp, in the languages people actually speak.
 
 ## 📦 Tech Stack
-Java 21 · Spring Boot 4.0.1  · Spring Data JPA · SQL · MySQL 8.0 · Llama 3.3-70B (HuggingFace) · Twilio WhatsApp API · Jsoup
+Java 21 · Spring Boot 4.1.0 · Spring Data JPA · SQL · MySQL 8.0 · Llama 3.3-70B (HuggingFace) · Twilio WhatsApp API · Jsoup
 
 ## 🦄 Features
 - **Multilingual support**: English, Tamil, Tanglish, Malayalam, Manglish, and Telugu
